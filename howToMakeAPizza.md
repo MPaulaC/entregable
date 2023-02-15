@@ -1,8 +1,6 @@
 <ol>
   <li> Primer paso , cortar la piña</li>
   <li>segundo paso, cortar jamon</li> 
-  
-</ol>
   <li>tercer  paso, rayar el queso</li>
   <li>Cuarto paso, hacer la masa</li>
   <li>quinto paso, unificar los ingredientes </li>
